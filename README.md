@@ -1,4 +1,4 @@
-# Classic_models_analysis
+# Classic_models_Sales_analysis
 ## [Live Dashboard Link](https://app.powerbi.com/groups/me/reports/1c4c8dd6-986c-421a-977c-3be71bb4261e/ReportSection?experience=power-bi)
 
 ![Project](https://github.com/Vishwastanwar/Classic_models_analysis/blob/main/dashboard_image.png)
